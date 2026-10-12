@@ -1,0 +1,6 @@
+.env
+.env.*
+.mcp.json
+node_modules/
+.vercel/
+*.log
